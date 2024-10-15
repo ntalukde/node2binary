@@ -58,6 +58,3 @@ Other options:
 - `--add_edgelist_to_siblings` if this flag is set then edgelist is added to the sibling pairs. **Not implemented**
 - `--q` quality of the community partition tree. **Not implemented**
 
-
-Ackowledgement: We have built upon our code over BINDER (https://github.com/ntalukde/BINDER) codebase.
-
