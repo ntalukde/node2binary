@@ -1,5 +1,10 @@
 # node2binary
-by a nonempty list of authors
+Code and dataset used for the following paper:
+```bash
+NODE2BINARY: Compact Graph Node Embeddings Using Binary Vectors.
+Niloy Talukder, Croix Gyurek and Mohammad Al Hasan.
+Proceedings of the ACM Web Conference 2025 (WWW ’25).
+```
 
 ## Running
 
